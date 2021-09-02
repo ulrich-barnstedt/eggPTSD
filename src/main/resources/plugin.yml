@@ -1,0 +1,8 @@
+name: EggPTSD
+version: '${project.version}'
+main: me.x81.eggptsd.EggPTSD
+api-version: 1.17
+commands:
+  clearEgg:
+    description: Clear egg zombies
+    usage: Use command
